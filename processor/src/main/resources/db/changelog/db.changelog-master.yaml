@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - include:
+      id: create_table_tasks.sql
+      file: changeset/create_table_tasks.sql
+      author: Nikita Kovalev
+      relativeToChangelogFile: true

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-lib" />
+      <option name="name" value="maven-lib" />
+      <option name="url" value="https://sfera.inno.local/app/repo-ci-maven/api/repository/troc-maven-lib/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tslg-maven-pub" />
+      <option name="name" value="tslg-maven-pub" />
+      <option name="url" value="https://sfera.inno.local/app/repo-ci-maven/api/repository/tslg-maven-pub/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://sfera.inno.local/app/repo-ci-maven/api/repository/troc-maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-snapshots" />
+      <option name="name" value="maven-snapshots" />
+      <option name="url" value="https://sfera.inno.local/app/repo-ci-maven/api/repository/troc-maven-snapshot/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://sfera.inno.local/app/repo-ci-maven/api/repository/troc-maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tsau-maven-pub" />
+      <option name="name" value="tsau-maven-pub" />
+      <option name="url" value="https://sfera.inno.local/app/repo-ci-maven/api/repository/tsau-maven-pub/" />
+    </remote-repository>
+  </component>
+</project>
